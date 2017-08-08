@@ -39,7 +39,7 @@ class Student
         Student Student = new Student();
         Console.WriteLine("Student details - {0}", Student);
         Student.Name = "BOB";
-        Student.Age = 36;
+        Student.Age = 46;
         Console.WriteLine("Student details - {0}", Student);
         Student.Age += 25;
         Console.WriteLine("Student details - {0}", Student);
